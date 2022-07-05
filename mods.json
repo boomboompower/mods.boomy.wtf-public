@@ -1,0 +1,40 @@
+[
+  {
+    "author": "boomboompower",
+    "repository": "SkinChanger",
+    "description": "A mod which allows players to change their cape and skin directly from an in-game menu.",
+    "description_key": "SC"
+  },
+  {
+    "author": "boomboompower",
+    "repository": "ToggleChat",
+    "description": "A mod for that allows you to toggle various chats messages with the click of a button.",
+    "description_key": "TC"
+  },
+  {
+    "author": "Skytils",
+    "repository": "SkytilsMod",
+    "description": "A utilities mod with hundreds of features for Hypixel Skyblock.",
+    "description_key": "ST",
+    "release_sorting": false
+  },
+  {
+    "author": "boomboompower",
+    "repository": "TextDisplayer",
+    "description": "A mod for drawing/adding text to your screen, with text-size, color and coords.",
+    "description_key": "TD"
+  },
+  {
+    "author": "boomboompower",
+    "repository": "FPSSpoofer",
+    "description": "A mod which allows you to fake your FPS on many popular coords mods.",
+    "description_key": "FS"
+  },
+  {
+    "author": "boomboompower",
+    "repository": "Legacy-Mods",
+    "description": "The original versions of some of my released mods.",
+    "description_key": "LM",
+    "release_sorting": false
+  }
+]
